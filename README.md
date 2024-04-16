@@ -21,10 +21,10 @@ Join me on this journey to uncover the hidden treasures within AtliQ Hardwares' 
 and finance data, enhancing their global market presence and fianancial health
 
 ## Project Highlights
-  ### 💫Objective:
+  ### Objective:
  Developed a comprehensive customer performance report. 
 Conducted an in-depth comparison of market performance and sales targets.
- ### 💫Key Achievements:
+ ### Key Achievements:
 Enabled businesses to monitor and evaluate their sales activities effectively. 
 Identified critical sales patterns and tracked essential key performance indicators 
 (KPIs).
@@ -32,7 +32,7 @@ Assisted in determining optimal customer discounts, facilitating consumer
 negotiations, and pinpointing promising international expansion opportunities.
 
 ## Technical and Soft Skills 
-### �Technical Skills:
+### Technical Skills:
 Proficient in ETL methodology (Extract, Transform, Load). 
 Skilled in generating date tables using Power Query. 
 Experienced in deriving fiscal months and quarters. 
