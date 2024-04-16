@@ -21,6 +21,7 @@ Join me on this journey to uncover the hidden treasures within AtliQ Hardwares' 
 and finance data, enhancing their global market presence and fianancial health
 
 ## Project Highlights
+### Project 1: Sales Analysis and Reporting 
   ### Objective:
  Developed a comprehensive customer performance report. 
 Conducted an in-depth comparison of market performance and sales targets.
@@ -30,6 +31,17 @@ Identified critical sales patterns and tracked essential key performance indicat
 (KPIs).
 Assisted in determining optimal customer discounts, facilitating consumer 
 negotiations, and pinpointing promising international expansion opportunities.
+### Project 2: Financial Analysis and Reporting 
+###  Objective:
+Created detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months. 
+Produced P&L reports segmented by Markets. 
+### Key Achievements:
+Evaluated financial performance comprehensively, facilitating informed decisionmaking. 
+Supported effective communication with stakeholders through clear and insightful 
+reports. 
+Contributed to benchmarking against industry peers and established a foundation for 
+budgeting and forecasting. 
+
 
 ## Technical and Soft Skills 
 ### Technical Skills:
